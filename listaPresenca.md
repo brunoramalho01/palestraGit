@@ -1,4 +1,4 @@
 # lista presença
 ## Nomes Abaixo:
 
-- Bruno Ramalho
+- Bruno Ramalho dos santos
